@@ -3,4 +3,4 @@
 
 
 
-🇬🇧 **Español** · 🇪🇸 [English](README.md)
+ES **Español** · GB [English](README.md)
